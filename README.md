@@ -1,4 +1,4 @@
-##Alans Strujevs DP3-1
+## Alans Strujevs DP3-1
 
 Repozitorijs izveidots priekš savas mājas lapas izstrādes no nulles.
 
